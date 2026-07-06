@@ -10,4 +10,8 @@ public class HelloApp {
     static void greetWhite() {
         System.out.println("hello white");
     }
+
+    static void greetBlack() {
+        System.out.println("hello black");
+    }
 }
