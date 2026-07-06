@@ -4,7 +4,7 @@ public class HelloApp {
     }
 
     static void hello() {
-        System.out.println("hello");
+        System.out.println("hello everyone");
     }
 
     static void greetWhite() {
