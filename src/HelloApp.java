@@ -1,6 +1,8 @@
 public class HelloApp {
     public static void main(String[] args) {
         hello();
+        greetWhite();
+        greetBlack();
     }
 
     static void hello() {
@@ -9,5 +11,9 @@ public class HelloApp {
 
     static void greetWhite() {
         System.out.println("hello white");
+    }
+
+    static void greetBlack() {
+        System.out.println("hello black");
     }
 }
